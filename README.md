@@ -1,48 +1,52 @@
 # MyFlutterApps
 List of all Apps created using Flutter
 
+## My First App - Building first app in Flutter
+
+* [First App Completed Project](https://github.com/yashreturns/My-First-App)
+
 ## MiCard - How to Build Beautiful UIs with Flutter Widgets
 
-* [MiCard Completed Project](https://github.com/londonappbrewery/MiCard-Completed)
+* [MiCard Completed Project](https://github.com/yashreturns/Mi-Card)
 
 ## Dicee - Building Apps with State
 
-* [Dicee Completed Project](https://github.com/londonappbrewery/Dicee-Flutter-Completed)
+* [Dicee Completed Project](https://github.com/yashreturns/Dicee)
 
 ## Magic 8 Ball
 
-* [Magic 8 Ball Stub](https://github.com/londonappbrewery/magic-8-ball-flutter)
+* [Magic 8 Ball Stub](https://github.com/yashreturns/Magic-8-Ball)
 
 ## Xylophone - Using Flutter and Dart Packages to Speed Up Development
 
-* [Xylophone Completed Project](https://github.com/londonappbrewery/Xylophone-Flutter-Completed)
+* [Xylophone Completed Project](https://github.com/yashreturns/Xylophone)
 
 ## Quizzler - Modularising & Organising Flutter Code
 
-* [Quizzler Solution & Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
+* [Quizzler Solution & Completed Project](https://github.com/yashreturns/Quizzler)
 
 ## Destini
 
-* [Destini Solution & Completed Project](https://github.com/londonappbrewery/destini-challenge-completed/)
+* [Destini Solution & Completed Project](https://github.com/yashreturns/Destini)
 
 ## BMI Calculator - Building Flutter UIs for Intermediates
 
-* [BMI Completed Project](https://github.com/londonappbrewery/BMI-Calculator-Completed)
+* [BMI Completed Project](https://github.com/yashreturns/BMI-Calculator)
 
 ## Clima - Powering Your Flutter App with Live Weather Web Data
  
-* [Clima Completed Project](https://github.com/londonappbrewery/Clima-Flutter-Completed)
+* [Clima Completed Project](https://github.com/yashreturns/Clima)
 
-## Bitcoin Ticker (a.k.a. Am I Rich?)
+## Bitcoin Ticker
 
-* [Bitcoin Completed Project](https://github.com/londonappbrewery/bitcoin-flutter-final)
+* [Bitcoin Completed Project](https://github.com/yashreturns/Bitcoin-Ticker)
 
 ## Flash Chat - Flutter x Firebase Cloud Firestore
 
-* [Flash Chat Completed Project](https://github.com/londonappbrewery/Flash-Chat-Flutter-Complete)
+* [Flash Chat Completed Project](https://github.com/yashreturns/Flash-Chat)
 
-##  Flutter State Management
+##  Todoey App
 
-* [Todoey Completed Project](https://github.com/londonappbrewery/todoey-flutter)
+* [Todoey Completed Project](https://github.com/yashreturns/Todoey-App)
 
 
