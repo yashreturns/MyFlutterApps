@@ -1,6 +1,5 @@
 # MyFlutterApps
 List of all Apps created using Flutter
-# Flutter-Course-Resources
 
 ## MiCard - How to Build Beautiful UIs with Flutter Widgets
 
